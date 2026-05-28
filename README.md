@@ -37,4 +37,8 @@ Dashboard Designing
 Basic Data Analytics Concepts
 
 Image:
-![]
+![https://github.com/snigdhasikdar90-arch/Amazon-Prime-Movies-and-Tv-shows-data-analysis-dashboard/blob/main/Prime%20Picture.png?raw=true]
+
+Contact :
+Linkedin- www.linkedin.com/in/snigdha-sikdar-85b391377
+Email- snigdhasikdar90@gmail.com
